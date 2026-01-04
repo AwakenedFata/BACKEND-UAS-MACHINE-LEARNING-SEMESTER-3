@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (ignored karena >100MB GitHub limit)
+models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Laporan / Documentation
+Laporan_UAS_Chatbot.html
+laporan_uas_content.md
+strukturfolder.txt
+
+# Temporary
+*.tmp
+*.temp
+.cache/

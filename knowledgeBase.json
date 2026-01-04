@@ -1,0 +1,512 @@
+{
+    "metadata": {
+        "source": "Excel Anggaran & Pricelist",
+        "extracted_date": "2025",
+        "business_name": "HLO - HoK Lampung Official",
+        "description": "Product catalog, pricing, and business data extracted from internal budget"
+    },
+    "products": {
+        "kaos": [
+            {
+                "id": "kaos_001",
+                "nama": "Premium Youth T-shirt 72Y00",
+                "kategori": "Kaos",
+                "deskripsi": "Kaos premium untuk anak-anak dan remaja",
+                "bahan": "Cotton combed 24s",
+                "harga": {
+                    "retail": 37000,
+                    "grosir_12": 35000,
+                    "grosir_72": 32000
+                },
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL (+5k)",
+                    "3XL (+10k)"
+                ],
+                "include": "Sablon DTF custom design",
+                "tags": [
+                    "youth",
+                    "anak",
+                    "remaja",
+                    "termurah"
+                ]
+            },
+            {
+                "id": "kaos_002",
+                "nama": "Premium Cotton T-shirt 7200",
+                "kategori": "Kaos",
+                "deskripsi": "Kaos cotton premium untuk daily wear",
+                "bahan": "Cotton combed 24s premium",
+                "harga": {
+                    "retail": 47000,
+                    "grosir_12": 45000,
+                    "grosir_72": 42000
+                },
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL (+5k)",
+                    "3XL (+10k)"
+                ],
+                "include": "Sablon DTF custom design",
+                "tags": [
+                    "cotton",
+                    "premium",
+                    "best seller",
+                    "nyaman"
+                ]
+            },
+            {
+                "id": "kaos_003",
+                "nama": "Premium Ringer T-shirt 7250",
+                "kategori": "Kaos",
+                "deskripsi": "Kaos dengan accent di collar dan lengan",
+                "bahan": "Cotton combed 24s",
+                "harga": {
+                    "retail": 53000,
+                    "grosir_12": 51000,
+                    "grosir_72": 48000
+                },
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL (+5k)",
+                    "3XL (+10k)"
+                ],
+                "include": "Sablon DTF custom design",
+                "tags": [
+                    "ringer",
+                    "sporty",
+                    "accent",
+                    "style"
+                ]
+            },
+            {
+                "id": "kaos_004",
+                "nama": "Premium Raglan T-shirt 7260",
+                "kategori": "Kaos",
+                "deskripsi": "Kaos dengan kombinasi warna di lengan",
+                "bahan": "Cotton combed 24s",
+                "harga": {
+                    "retail": 62000,
+                    "grosir_12": 60000,
+                    "grosir_72": 57000
+                },
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL (+5k)",
+                    "3XL (+10k)"
+                ],
+                "include": "Sablon DTF custom design",
+                "tags": [
+                    "raglan",
+                    "premium",
+                    "kombinasi warna",
+                    "stylish"
+                ]
+            }
+        ],
+        "merchandise": [
+            {
+                "id": "merch_001",
+                "nama": "Gantungan Kunci Acrylic Double",
+                "kategori": "Aksesoris",
+                "deskripsi": "Gantungan kunci hero HoK acrylic 5cm double sided",
+                "harga": {
+                    "retail": 10500
+                },
+                "ukuran": "5cm",
+                "bahan": "Acrylic double",
+                "custom": true,
+                "tags": [
+                    "ganci",
+                    "keychain",
+                    "acrylic",
+                    "hero",
+                    "murah"
+                ]
+            },
+            {
+                "id": "merch_002",
+                "nama": "Totebag Resleting Polos",
+                "kategori": "Tas",
+                "deskripsi": "Totebag kanvas dengan resleting",
+                "harga": {
+                    "retail": 24900
+                },
+                "ukuran": "30x40cm",
+                "bahan": "Kanvas drill",
+                "custom": false,
+                "tags": [
+                    "totebag",
+                    "tas",
+                    "kanvas",
+                    "resleting"
+                ]
+            },
+            {
+                "id": "merch_003",
+                "nama": "Totebag Custom Oversize",
+                "kategori": "Tas",
+                "deskripsi": "Totebag besar dengan resleting dan custom print",
+                "harga": {
+                    "retail": 42000
+                },
+                "ukuran": "44x12x41cm",
+                "bahan": "Kanvas drill",
+                "custom": true,
+                "tags": [
+                    "totebag",
+                    "oversize",
+                    "jumbo",
+                    "custom"
+                ]
+            },
+            {
+                "id": "merch_004",
+                "nama": "Totebag Adjustable",
+                "kategori": "Tas",
+                "deskripsi": "Totebag dengan resleting adjustable",
+                "harga": {
+                    "retail": 43899
+                },
+                "ukuran": "40x30cm",
+                "bahan": "Kanvas",
+                "custom": true,
+                "tags": [
+                    "totebag",
+                    "adjustable",
+                    "resleting"
+                ]
+            },
+            {
+                "id": "merch_005",
+                "nama": "Topi Baseball Custom Bordir",
+                "kategori": "Aksesoris",
+                "deskripsi": "Topi baseball dengan bordir custom 2 sisi",
+                "harga": {
+                    "retail": 60000
+                },
+                "bahan": "Cotton twill",
+                "custom": true,
+                "tags": [
+                    "topi",
+                    "cap",
+                    "baseball",
+                    "bordir",
+                    "custom"
+                ]
+            },
+            {
+                "id": "merch_006",
+                "nama": "Enamel Pin Custom",
+                "kategori": "Aksesoris",
+                "deskripsi": "Enamel pin custom hero HoK 4cm",
+                "harga": {
+                    "retail": 25000
+                },
+                "ukuran": "4cm",
+                "bahan": "Enamel metal",
+                "custom": true,
+                "tags": [
+                    "pin",
+                    "enamel",
+                    "bros",
+                    "hero"
+                ]
+            },
+            {
+                "id": "merch_007",
+                "nama": "Gelang Silicone 2 Sisi",
+                "kategori": "Aksesoris",
+                "deskripsi": "Gelang silicone printing 2 sisi",
+                "harga": {
+                    "retail": 19999
+                },
+                "ukuran": "18cm (M)",
+                "bahan": "Silicone",
+                "custom": true,
+                "tags": [
+                    "gelang",
+                    "bracelet",
+                    "silicone",
+                    "2 sisi"
+                ]
+            },
+            {
+                "id": "merch_008",
+                "nama": "Sticker Pack A6",
+                "kategori": "Sticker",
+                "deskripsi": "Sticker karakter HoK A6 vinyl matte/glossy",
+                "harga": {
+                    "retail": 6500
+                },
+                "ukuran": "A6 (10.5x14.8cm)",
+                "bahan": "Vinyl",
+                "finish": [
+                    "matte",
+                    "glossy"
+                ],
+                "tags": [
+                    "sticker",
+                    "vinyl",
+                    "hero",
+                    "murah"
+                ]
+            },
+            {
+                "id": "merch_009",
+                "nama": "Sticker Pack A5",
+                "kategori": "Sticker",
+                "deskripsi": "Sticker karakter HoK A5 vinyl kisscut",
+                "harga": {
+                    "retail": 4210
+                },
+                "ukuran": "A5 (14.8x21cm)",
+                "bahan": "Vinyl kisscut",
+                "finish": [
+                    "glossy"
+                ],
+                "tags": [
+                    "sticker",
+                    "vinyl",
+                    "hero",
+                    "termurah"
+                ]
+            },
+            {
+                "id": "merch_010",
+                "nama": "Kalung Custom Silver Anti Karat",
+                "kategori": "Aksesoris",
+                "deskripsi": "Kalung liontin custom silver anti karat 50cm",
+                "harga": {
+                    "retail": 50500
+                },
+                "panjang": "50cm",
+                "bahan": "Silver anti karat monel",
+                "custom": true,
+                "tags": [
+                    "kalung",
+                    "necklace",
+                    "silver",
+                    "custom",
+                    "liontin"
+                ]
+            },
+            {
+                "id": "merch_011",
+                "nama": "Kalung Clay Handmade",
+                "kategori": "Aksesoris",
+                "deskripsi": "Kalung clay handmade 3x2.8cm dengan rantai 32cm",
+                "harga": {
+                    "retail": 36999
+                },
+                "ukuran_liontin": "3x2.8cm",
+                "panjang": "32cm",
+                "bahan": "Clay handmade",
+                "tags": [
+                    "kalung",
+                    "clay",
+                    "handmade",
+                    "unik"
+                ]
+            }
+        ],
+        "packaging_items": [
+            {
+                "nama": "Hang Tag",
+                "harga": 775,
+                "deskripsi": "Tag nama brand 6x10cm 2 sisi"
+            },
+            {
+                "nama": "Tali Hang Tag",
+                "harga": 200,
+                "deskripsi": "Tali hang tag 19cm putih"
+            },
+            {
+                "nama": "Label Baju",
+                "harga": 499,
+                "deskripsi": "Label nama brand woven 6x4cm"
+            },
+            {
+                "nama": "Zipper Bag",
+                "harga": 2600,
+                "deskripsi": "Wadah baju 35x25cm"
+            },
+            {
+                "nama": "Packaging Box",
+                "harga": 10000,
+                "deskripsi": "Box custom 35x25x5cm"
+            },
+            {
+                "nama": "Sticker Segel",
+                "harga": 110,
+                "deskripsi": "Sticker segel box 5cm transparant"
+            },
+            {
+                "nama": "Wrap Paper",
+                "harga": 1200,
+                "deskripsi": "Kertas pembungkus 32x50cm"
+            },
+            {
+                "nama": "Thanks Card",
+                "harga": 653,
+                "deskripsi": "Kartu ucapan terima kasih 10x7cm glossy"
+            },
+            {
+                "nama": "Paper Bag",
+                "harga": 5600,
+                "deskripsi": "Tas wadah baju 36x24x10cm"
+            }
+        ]
+    },
+    "services": {
+        "sablon_dtf": {
+            "nama": "Sablon DTF (Direct to Film)",
+            "deskripsi": "Sablon premium dengan teknologi Direct to Film",
+            "keunggulan": [
+                "Hasil detail & tajam",
+                "Warna lebih vibrant",
+                "Tahan lama & tidak mudah crack",
+                "Tidak luntur meski dicuci berkali-kali",
+                "Permukaan lembut (soft hand)"
+            ],
+            "pricelist": {
+                "5x5cm": 5000,
+                "10x15cm": 10000,
+                "A5": 15000,
+                "A4": 25000,
+                "A3": 35000,
+                "A3+": 45000,
+                "A2": 50000,
+                "Meteran": 35000
+            },
+            "minimal_order": "Sudah include di harga kaos",
+            "estimasi": "2-3 hari"
+        },
+        "custom_design": {
+            "nama": "Custom Design Hero HoK",
+            "deskripsi": "Tim design HLO siap membuatkan design hero favorit",
+            "biaya": "GRATIS",
+            "hero_populer": [
+                "Li Bai",
+                "Han Xin",
+                "Jing",
+                "Luna",
+                "Marco Polo",
+                "Sun Ce",
+                "Kaiser",
+                "Yao",
+                "Diao Chan",
+                "Hou Yi"
+            ],
+            "proses": [
+                "Request hero favorit",
+                "Tim design buatkan mockup",
+                "Approval design",
+                "Produksi dimulai"
+            ]
+        }
+    },
+    "shipping": {
+        "asal_pengiriman": "Bandar Lampung",
+        "ekspedisi": [
+            "JNE",
+            "JNT",
+            "SiCepat",
+            "Grab/Gojek (Lampung)"
+        ],
+        "estimasi_ongkir": {
+            "lampung_dalam_kota": {
+                "min": 10000,
+                "max": 15000,
+                "estimasi_hari": "1-2 hari"
+            },
+            "luar_lampung_jawa": {
+                "min": 20000,
+                "max": 40000,
+                "estimasi_hari": "2-4 hari"
+            },
+            "luar_jawa": {
+                "min": 30000,
+                "max": 100000,
+                "estimasi_hari": "3-7 hari"
+            }
+        },
+        "gratis_ongkir": "Promo tertentu (follow Instagram untuk update)"
+    },
+    "payment_methods": {
+        "bank_transfer": [
+            "BCA",
+            "Mandiri",
+            "BRI",
+            "BNI"
+        ],
+        "e_wallet": [
+            "Dana",
+            "OVO",
+            "GoPay",
+            "ShopeePay"
+        ],
+        "other": [
+            "QRIS (semua e-wallet)",
+            "COD (khusus area Lampung)"
+        ]
+    },
+    "business_info": {
+        "nama_brand": "HLO - HoK Lampung Official",
+        "tagline": "Official Merchandise Honor of Kings Lampung",
+        "lokasi": "Bandar Lampung",
+        "instagram": "@hoklampung",
+        "jam_operasional": "09:00 - 21:00 WIB",
+        "response_time": "1-2 jam (fast response)",
+        "customer_rating": "4.9/5 dari 200+ customer",
+        "total_orders": "500+ pesanan terkirim"
+    },
+    "policies": {
+        "minimal_order": "1 pcs (beli satuan bisa)",
+        "pre_order": "2-5 hari kerja untuk kaos custom",
+        "grosir": {
+            "tier_1": {
+                "minimal": "12 pcs",
+                "diskon": "5-8%"
+            },
+            "tier_2": {
+                "minimal": "72 pcs",
+                "diskon": "10-15%"
+            }
+        },
+        "return_policy": {
+            "cacat_produksi": "Free retur/ganti",
+            "salah_kirim": "Kami tanggung ongkir bolak-balik",
+            "kesalahan_customer": "Biaya ditanggung customer"
+        },
+        "reseller": {
+            "open": true,
+            "benefit": "Harga spesial & support marketing"
+        },
+        "dropship": {
+            "available": true,
+            "biaya": "Gratis packing custom"
+        }
+    },
+    "faq_answers": {
+        "estimasi_pengerjaan": "2-5 hari kerja untuk kaos custom, 1-3 hari untuk merchandise",
+        "estimasi_pengiriman": "2-4 hari (Jawa), 3-7 hari (luar Jawa)",
+        "sablon_luntur": "Tidak, sablon DTF tahan cuci berkali-kali",
+        "ukuran_jumbo": "Ada, 2XL (+5rb) dan 3XL (+10rb)",
+        "bisa_satuan": "Bisa, minimal order 1 pcs",
+        "gratis_design": "Ya, tim design HLO gratis buatkan mockup",
+        "cod_area": "Khusus area Lampung untuk COD"
+    }
+}
