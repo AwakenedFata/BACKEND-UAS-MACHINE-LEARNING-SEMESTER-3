@@ -118,6 +118,13 @@ def load_model():
         app.logger.error(f"Error loading model: {e}")
         return False
 
+# Load model on module import for Gunicorn compatibility
+_model_loaded = load_model()
+if _model_loaded:
+    app.logger.info("Model auto-loaded on startup")
+else:
+    app.logger.warning("Model not found - use /api/train to train first")
+
 def get_response_from_knowledge(intent, user_message):
 
     try:

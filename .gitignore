@@ -27,8 +27,8 @@ logs/
 *.swp
 *.swo
 
-# Model files (ignored karena >100MB GitHub limit)
-models/*.pkl
+# Model files (optional - uncomment jika model terlalu besar)
+# models/*.pkl
 
 # OS
 .DS_Store
