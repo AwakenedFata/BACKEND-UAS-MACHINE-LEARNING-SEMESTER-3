@@ -28,7 +28,7 @@ logs/
 *.swo
 
 # Model files (optional - uncomment jika model terlalu besar)
-# models/*.pkl
+models/
 
 # OS
 .DS_Store
